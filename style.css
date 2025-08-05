@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(67, 66, 66);
+    color: white;
+}
+
+
+#box1{
+    position: absolute;
+    left: 478px;
+    top: 198px;
+    width: 100px;
+    height: 100px;
+    background-color: #eab308;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+#box2{
+    position: absolute;
+    left: 510px;
+    top: 180px;
+    width: 250px;
+    height: 35px;
+    background-color:#eb7b52;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: small;
+}
+#box3{
+    display: flex;
+    position: absolute;
+    left: 480px;
+    top: 400px;
+    width: 550px;
+    height: 50px;
+    background-color: #131927;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+#base{
+    position: absolute;
+    left: 480px;
+    top: 200px;
+    width: 550px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #131927;
+    border-radius: 25px;
+}
+#codebtn{
+    position: absolute;
+    left: 20px;
+    top: 0px;
+    width: 100px;
+    height: 40px;
+    background-color: #2f2729;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: small;
+    color: whitesmoke;
+}
+#codebtn2{
+    position: absolute;
+    left: 140px;
+    top: 0px;
+    width: 100px;
+    height: 40px;
+    background-color: #2f2729;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: small;
+    color: whitesmoke;
+}
+#codebtn3{
+    position: absolute;
+    left: 260px;
+    top: 0px;
+    width: 100px;
+    height: 40px;
+    background-color:#2f2729;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: small;
+    color: whitesmoke;
+}
+#codebtn4{
+    position: absolute;
+    left: 380px;
+    top: 0px;
+    width: 100px;
+    height: 40px;
+    background-color: #2f2729;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: small;
+    color: whitesmoke;
+}
